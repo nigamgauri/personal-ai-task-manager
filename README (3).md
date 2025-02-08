@@ -102,9 +102,6 @@ Output:
 
 Contributions are welcome! If you'd like to suggest improvements or add new features, please submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
