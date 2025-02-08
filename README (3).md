@@ -7,7 +7,7 @@
 
 The **Personal AI Task Assistant** is an interactive AI tool designed to assist with task automation, project management, and decision-making. This assistant leverages natural language processing to understand user inputs, execute tasks with integrated tools, and provide detailed updates and visualizations of progress.
 
-![Workflow Graph](assets/graph.png)
+![Workflow Graph](graph.png)
 
 ## Key Features
 
